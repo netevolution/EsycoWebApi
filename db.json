@@ -1,0 +1,11 @@
+{
+	"posts": [
+	  { "id": 1, "title": "json-server", "author": "typicode" },
+	  { "id": 1, "title": "json-server", "author": "typicode" }
+	],
+	"comments": [
+	  { "id": 1, "body": "some comment", "postId": 1 }
+	],
+	"profile": { "name": "typicode" },
+	"columns": [{"Code":"Id","Name":"Id"},{"Code":"Code","Name":"Kód produktu"},{"Code":"PartNumber","Name":"Part NO"},{"Code":"Name","Name":"Název"},{"Code":"SubType","Name":"Subtyp"},{"Code":"ProductLine","Name":"Produktová řada"},{"Code":"InStock","Name":"Skladem"},{"Code":"Blocked","Name":"Blokovaných"},{"Code":"Free","Name":"Volné"},{"Code":"NotDelivered","Name":"Nedodané"},{"Code":"OnComing","Name":"Budoucí"},{"Code":"Manager","Name":"Manažer"},{"Code":"PurchasePrice","Name":"Nákupní cena"},{"Code":"PurchaseCurrency","Name":"Nákupní měna"},{"Code":"P0","Name":"P0"},{"Code":"P1","Name":"P1"},{"Code":"P2","Name":"P2"},{"Code":"P3","Name":"P3"}]
+  }
